@@ -44,7 +44,9 @@ The application utilizes a **Backtracking Algorithm** to solve the puzzles.
 
 | Input Grid | Solved Output |
 | :--- | :--- |
-| ![Input Placeholder](<img width="1898" height="933" alt="image" src="https://github.com/user-attachments/assets/c2791545-20b7-44c1-8d45-74c96c90d070" />) | ![Solved Placeholder](<img width="1901" height="934" alt="image" src="https://github.com/user-attachments/assets/405eb3cb-47e1-4a1c-9336-e76045ce27ad" />) |
+| ![Input Placeholder](<img width="1898" height="933" alt="image" src="https://github.com/user-attachments/assets/aeecc09d-5cdd-479a-be87-0e0eb4b400c0" />
+| ![Solved Placeholder](<img width="1901" height="934" alt="image" src="https://github.com/user-attachments/assets/d7a6bc1a-3c5a-4a11-a7ff-f61c1d204476" />
+) |
 
 ---
 
